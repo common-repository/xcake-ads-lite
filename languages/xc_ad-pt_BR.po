@@ -1,0 +1,166 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: xCake Simple Ads Lite\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-03-17 14:34-0300\n"
+"PO-Revision-Date: 2011-03-17 14:36-0300\n"
+"Last-Translator: Canha <canha@xcakeblogs.com.br>\n"
+"Language-Team: xCakeBlogs <canha@xcakeblogs.com.br>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;gettext;gettext_noop;_e\n"
+"X-Poedit-Basepath: /users/seanberg/sites/xcake/xcad\n"
+"X-Poedit-Language: Portuguese\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: xc_ad.php:39
+msgid "Create Ad"
+msgstr "Criar anúncio"
+
+#: xc_ad_add.php:73
+#: xc_ad_main.php:41
+msgid "Options saved"
+msgstr "Opções salvas"
+
+#: xc_ad_add.php:81
+msgid "Edit ad"
+msgstr "Editar anúncio"
+
+#: xc_ad_add.php:116
+msgid "  Edit  "
+msgstr "  Editar  "
+
+#: xc_ad_add.php:119
+msgid "Create ad"
+msgstr "Criar anúncio"
+
+#: xc_ad_add.php:124
+msgid "  Add new  "
+msgstr "  Adicionar novo  "
+
+#: xc_ad_add.php:132
+#: xc_ad_main.php:49
+msgid "Name"
+msgstr "Nome"
+
+#: xc_ad_add.php:136
+#: xc_ad_main.php:57
+msgid "Ad type"
+msgstr "Tipo do anúncio"
+
+#: xc_ad_add.php:137
+#: xc_ad_functions.php:128
+#: xc_ad_functions.php:189
+msgid "Image"
+msgstr "Imagem"
+
+#: xc_ad_add.php:138
+#: xc_ad_functions.php:129
+#: xc_ad_functions.php:190
+msgid "Text"
+msgstr "Texto"
+
+#: xc_ad_add.php:139
+#: xc_ad_functions.php:130
+#: xc_ad_functions.php:191
+msgid "Flash / Code"
+msgstr "Flash / Código"
+
+#: xc_ad_add.php:142
+msgid "Image URL"
+msgstr "URL da imagem"
+
+#: xc_ad_add.php:146
+#: xc_ad_add.php:159
+msgid "Site URL"
+msgstr "URL do site"
+
+#: xc_ad_add.php:151
+msgid "Flash code / Other code"
+msgstr "Código do Flash / Outro código"
+
+#: xc_ad_add.php:155
+msgid "Text to be linked"
+msgstr "Texto a ser linkado"
+
+#: xc_ad_add.php:163
+msgid "Group"
+msgstr "Grupo"
+
+#: xc_ad_add.php:165
+msgid "Or select from pre-existing:"
+msgstr "Ou selecione dos pré-existentes:"
+
+#: xc_ad_add.php:182
+msgid "End date (dd/mm/yyyy)"
+msgstr "Validade (dd/mm/aaaa)"
+
+#: xc_ad_add.php:185
+msgid "Leave empty to expire manually"
+msgstr "Deixe vazio para remover manualmente"
+
+#: xc_ad_add.php:195
+#: xc_ad_main.php:92
+msgid "Found any buys? Please report them to canha (at) xcakeblogs.com.br"
+msgstr "Encontrou algum bug? Por favor envie os erros para canha (arroba) xcakeblogs.com.br"
+
+#: xc_ad_functions.php:124
+#: xc_ad_functions.php:184
+msgid "Title"
+msgstr "Título"
+
+#: xc_ad_functions.php:125
+#: xc_ad_functions.php:185
+msgid "Amount of ads to show (0 to display all)"
+msgstr "Qtde de anúncios a mostrar (0 mostra todos)"
+
+#: xc_ad_functions.php:126
+#: xc_ad_functions.php:186
+msgid "Ad type to display"
+msgstr "Tipo de anúncio a mostrar"
+
+#: xc_ad_functions.php:133
+#: xc_ad_functions.php:194
+msgid "Group to display"
+msgstr "Grupo a mostrar"
+
+#: xc_ad_functions.php:149
+#: xc_ad_functions.php:210
+msgid "Randomize"
+msgstr "Tornar aleatório"
+
+#: xc_ad_main.php:47
+msgid "ID"
+msgstr "ID"
+
+#: xc_ad_main.php:51
+msgid "Clicks"
+msgstr "Clicks"
+
+#: xc_ad_main.php:53
+msgid "Start date"
+msgstr "Data início"
+
+#: xc_ad_main.php:55
+msgid "End date"
+msgstr "Data fim"
+
+#: xc_ad_main.php:59
+msgid "Status"
+msgstr "Status"
+
+#: xc_ad_main.php:61
+msgid "Action"
+msgstr "Ação"
+
+#: xc_ad_main.php:70
+msgid "Do you really wish to delete this ad?"
+msgstr "Você realmente deseja deletar este anúncio?"
+
+#: xc_ad_main.php:89
+msgid "No ads found."
+msgstr "Nenhum anúncio encontrado."
+
+#~ msgid "-- Select --"
+#~ msgstr "-- Selecione --"
